@@ -1,0 +1,6 @@
+.Container-todolist {
+    display: flex;
+    padding: 25px;
+    margin: auto;
+    gap: 20px
+}
